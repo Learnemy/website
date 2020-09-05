@@ -29,7 +29,7 @@ favicon = "favicons/favicon.png"
 images = ["images/og_image.jpg"]
 keywords = ""
 mainSections = ["post"]
-profilePicture = "images/profile3.png"
+profilePicture = "images/profile.png"
 title = "Elisha Tan | DevRel, Community Builder, Founder"
 [params.math]
 enable = false
