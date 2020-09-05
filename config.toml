@@ -4,7 +4,7 @@ enableEmoji = true
 enableRobotsTXT = true
 languageCode = "en"
 summarylength = 10
-title = "Website of Jane Doe"
+title = "Elisha Tan | DevRel, Community Builder, Founder"
 [[menu.main]]
 identifier = "about"
 name = "About"
@@ -21,32 +21,36 @@ name = "Home"
 url = "/"
 weight = 1
 [params]
-author = "Jane Doe"
+author = "Elisha Tan"
 customCss = []
 customJs = []
-description = "Call me <b>Jane</b>"
-favicon = "favicons/"
-images = ["images/site-feature-image.png"]
+description = "Elisha is a Developer Community Programs Manager at Facebook, the Founder of TechLadies, and the Co-founder of DevRelFolks Asia. She is passionate about bringing people together to solve big problems."
+favicon = "favicons/favicon.png"
+images = ["images/og_image.jpg"]
 keywords = ""
 mainSections = ["post"]
-profilePicture = "images/profile.jpg"
-title = "I'm Jane Doe"
+profilePicture = "images/profile3.png"
+title = "Elisha Tan | DevRel, Community Builder, Founder"
 [params.math]
 enable = false
 use = "katex"
 [[params.socialIcons]]
 icon = "fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/elishatan/"
 [[params.socialIcons]]
-icon = "fa-github"
-title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+icon = "fa-facebook"
+title = "Facebook"
+url = "https://www.facebook.com/elishatan88"
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/elishatan"
 [[params.socialIcons]]
 icon = "fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/elishatan"
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:elisha.tan@gmail.com"
