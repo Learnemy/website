@@ -1,10 +1,10 @@
 {{ define "main" }}
+  <div>
+      <h1>testing stattic text up top on home page.</h1>
+    </div>
   {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
   {{ range $paginator.Pages }}
   <div class="post animated fadeInDown">
-    <div>
-      <h1>testing stattic text up top on home page.</h1>
-    </div>
     <div class="post-title">
       <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </h3>
