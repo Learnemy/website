@@ -971,3 +971,7 @@ a.btn {
   cursor: zoom-out;
   will-change: transform;
 }
+
+.purple {
+  color: #755086 ;
+}
