@@ -1,73 +1,52 @@
-baseURL = "https://clever-galileo-741632.netlify.app/"
-languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
-summarylength = 10
+baseURL = "https://clever-galileo-741632.netlify.app/"
 enableEmoji = true
 enableRobotsTXT = true
-
-# Enable Disqus
-#disqusShortname = ""
-
-# Google Analytics
-#googleAnalytics = "UA-123-45"
-
+languageCode = "en"
+summarylength = 10
+title = "Website of Jane Doe"
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/post/"
+weight = 2
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
 [params]
-title = "I'm Jane Doe"
 author = "Jane Doe"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
-keywords = ""
-favicon = "favicons/"
 customCss = []
 customJs = []
-mainSections = ["post"]
+description = "Call me Jane"
+favicon = "favicons/"
 images = ["images/site-feature-image.png"]
-
-## Math settings
+keywords = ""
+mainSections = ["post"]
+profilePicture = "images/profile.jpg"
+title = "I'm Jane Doe"
 [params.math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-use = "katex"  # options: "katex", "mathjax". default is "katex".
-
-## Social links
+enable = false
+use = "katex"
 [[params.socialIcons]]
 icon = "fa-linkedin"
 title = "Linkedin"
 url = "https://de.linkedin.com/"
-
 [[params.socialIcons]]
 icon = "fa-github"
 title = "GitHub"
 url = "https://github.com/lxndrblz/anatole/"
-
 [[params.socialIcons]]
 icon = "fa-instagram"
 title = "instagram"
 url = "https://www.instagram.com/"
-
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
 url = "mailto:mail@alexbilz.com"
-
-## Menu items
-
-[menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
