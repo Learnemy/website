@@ -20,6 +20,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- content/testing-page.md
-- exampleSite/content/post/testing-article.md
