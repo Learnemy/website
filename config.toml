@@ -6,20 +6,15 @@ languageCode = "en"
 summarylength = 10
 title = "Elisha Tan | DevRel, Community Builder, Founder"
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 3
-[[menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/post/"
-weight = 2
-[[menu.main]]
 identifier = "home"
 name = "Home"
 url = "/"
 weight = 1
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
 [params]
 author = "Elisha Tan"
 customCss = []
