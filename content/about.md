@@ -1,8 +1,8 @@
 +++
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-date = 2019-02-28T00:00:00Z
-description = "Hugo, the world’s fastest framework for building websites"
+aliases = ["about", "contact"]
+author = "Elisha Tan"
+date = ""
+description = "Elisha is a Developer Community Programs Manager at Facebook, the Founder of TechLadies, and the Co-founder of DevRelFolks Asia. She is passionate about bringing people together to solve big problems."
 title = "About"
 
 +++
