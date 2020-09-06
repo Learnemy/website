@@ -2,7 +2,6 @@
 author = "Elisha Tan"
 date = 2020-09-06T12:16:54Z
 description = "See where Elisha has been featured"
-draft = true
 tags = []
 title = "Press"
 
