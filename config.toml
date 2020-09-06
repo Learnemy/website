@@ -6,6 +6,11 @@ languageCode = "en"
 summarylength = 10
 title = "Elisha Tan | DevRel, Community Builder, Founder"
 [[menu.main]]
+identifier = "posts"
+name = "Blog"
+url = "/post/"
+weight = 2
+[[menu.main]]
 identifier = "home"
 name = "Home"
 url = "/"
