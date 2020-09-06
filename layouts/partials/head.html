@@ -1,5 +1,6 @@
 <head>
-    <title> {{.Site.Params.author}}{{ with .Title }} | {{ . }}{{ end }} </title>
+    <title itemprop="name"> {{.Site.Params.author}}{{ with .Title }} | {{ . }}{{ end }} </title>
+    <meta property="og:title" content="{{.Site.Params.author}}{{ with .Title }} | {{ . }}{{ end }}" />
     <meta charset="utf-8">
     {{- hugo.Generator -}}
     <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"> 
@@ -14,6 +15,11 @@
     <meta name="keywords" content="DevRel, developer relations, community building, public speaking, women in tech, gender diversity, tech for good, developer programs" />
     <meta name="coverage" content="Worldwide" /> 
     <meta name="distribution" content="Global" />
+
+    <link rel="canonical" href="{{ .Permalink }}" itemprop="url" /> 
+    <meta name="url" content="{{ .Permalink }}" />
+    <meta name="twitter:url" content="{{ .Permalink }}" /> 
+    <meta property="og:url" content="{{ .Permalink }}" />
 
 
     {{ with .Params.og_image }} 
