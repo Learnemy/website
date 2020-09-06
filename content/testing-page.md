@@ -1,11 +1,10 @@
 +++
 author = "Elisha Tan"
 date = 2020-09-05T12:43:50Z
-description = "testing page"
+description = "Invite Elisha to your next event!"
 tags = []
-title = "testing page"
+title = "Talks"
 [menu.main]
-name = "Talks"
 weight = 4
 
 +++
