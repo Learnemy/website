@@ -2,7 +2,6 @@
 author = "Elisha Tan"
 date = 2020-09-06T12:36:43Z
 description = "Invite Elisha to speak at your next event"
-draft = true
 tags = []
 title = "Talks"
 [menu.main]
