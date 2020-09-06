@@ -1,6 +1,7 @@
 {{ define "main" }}
 <div class="archive animated fadeInDown">
-   
+    <div class="post-title"><h1>Blog</h1></div>
+    <div class="space-below"></div>
     <ul class="list-with-title">
       <!-- {{ range .Data.Pages.GroupByDate "2006" }}     
       <div class="listing-title">{{ .Key }}</div> -->
@@ -8,22 +9,23 @@
       <ul class="listing">
         <div class="listing-item">
             <div class="listing-post"><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
-              <div class="post-time"><span class="date">{{.Date.Format "Jan 2020" }}</span></div>
+              <div class="post-time"><span class="date">{{.Date.Format "Jan 2008" }}</span></div>
             </div>
           </div>
       </ul>
       {{ end }}
    <!--  {{ end }} -->
+      <div class="space-below"></div>
       <div class="listing-title">Here are some of my favorite guest articles & podcast</div>
         <ul class="listing">               
-          <li class="listing-item">Ramen to Riches: <a href="https://www.ramentoriches.com/podcast/the-f-word-failure-can-we-talk-about-it-part-1-feat-elisha-tan-from-techladies-and-facebook/" target="_blank" rel="noopener">The F Word: Failure, can we talk about it? </a></li>
-          <li class="listing-item">Hight Net Worth: <a href="http://www.hnworth.com/article/2017/10/06/stories-of-resilience-elisha-tan/" target="_blank" rel="noopener">Stories of Resilience: Elisha Tan</a></li>
-          <li class="listing-item">The Founder Institute: <a href="http://fi.co/posts/11551" target="_blank" rel="noopener">3 Things I Learned From Running My Marketplace Startup</a></li>
-          <li class="listing-item">Tech in Asia: <a href="https://www.techinasia.com/talk/cheap-quick-starting-tips-nontech-founder" target="_blank" rel="noopener">Cheap and quick starting up tips for the non-tech founder</a></li>
-          <li class="listing-item">Tech in Asia: <a href="https://www.techinasia.com/should-non-technical-founders-learn-how-to-code/" target="_blank" rel="noopener">Should non-technical founders learn how to code?</a></li>
-          <li class="listing-item">Tech in Asia: <span class="webkit-html-attribute-value"><a href="https://www.techinasia.com/learnemy-kezaar-startup-fighting/" target="_blank" rel="noopener">As a Startup, Who are You Fighting? Hint: It May Not Be Your Competitors</a></span></li>
-          <li class="listing-item">Tech in Asia: <a href="https://www.techinasia.com/3-tips-for-tech-start-up-founders-who-cannot-code/" target="_blank" rel="noopener">3 Tips For Tech Start-up Founders Who Can’t Code</a></li>
-          <li class="listing-item">e27: <a href="http://e27.co/2-mistakes-i-made-that-cost-me-10000/" target="_blank" rel="noopener">2 mistakes I made that cost me $10,000 (e27)</a></li>                               
+          <li class="listing-item"><div class="listing-post"><a href="https://www.ramentoriches.com/podcast/the-f-word-failure-can-we-talk-about-it-part-1-feat-elisha-tan-from-techladies-and-facebook/" target="_blank" rel="noopener">Ramen to Riches: The F Word: Failure, can we talk about it? </a></div></li>
+          <li class="listing-item"><div class="listing-post"><a href="http://www.hnworth.com/article/2017/10/06/stories-of-resilience-elisha-tan/" target="_blank" rel="noopener">Hight Net Worth: Stories of Resilience: Elisha Tan</a></div></li>
+          <li class="listing-item"><div class="listing-post"><a href="http://fi.co/posts/11551" target="_blank" rel="noopener">The Founder Institute: 3 Things I Learned From Running My Marketplace Startup</a></div></li>
+          <li class="listing-item"><div class="listing-post"><a href="https://www.techinasia.com/talk/cheap-quick-starting-tips-nontech-founder" target="_blank" rel="noopener">Tech in Asia: Cheap and quick starting up tips for the non-tech founder</a></div></li>
+          <li class="listing-item"><div class="listing-post"><a href="https://www.techinasia.com/should-non-technical-founders-learn-how-to-code/" target="_blank" rel="noopener">Tech in Asia: Should non-technical founders learn how to code?</a></div></li>
+          <li class="listing-item"><div class="listing-post"><span class="webkit-html-attribute-value"><a href="https://www.techinasia.com/learnemy-kezaar-startup-fighting/" target="_blank" rel="noopener">Tech in Asia: As a Startup, Who are You Fighting? Hint: It May Not Be Your Competitors</a></span></div></li>
+          <li class="listing-item"><div class="listing-post"><a href="https://www.techinasia.com/3-tips-for-tech-start-up-founders-who-cannot-code/" target="_blank" rel="noopener">Tech in Asia: 3 Tips For Tech Start-up Founders Who Can’t Code</a></div></li>
+          <li class="listing-item"><div class="listing-post"><a href="http://e27.co/2-mistakes-i-made-that-cost-me-10000/" target="_blank" rel="noopener">e27: 2 mistakes I made that cost me $10,000 (e27)</a></div></li>                               
         </ul>
       </div>
   </div>
