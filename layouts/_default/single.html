@@ -3,8 +3,7 @@
     <div class="post-content">
 
       <div class="post-title">
-        <h3>{{ .Title }}
-        </h3>
+        <h1>{{ .Title }}</h1>
         {{ if eq .Type "post"}}
         <div class="info">
           <i class="fa fa-sun-o"></i>
@@ -13,6 +12,7 @@
         </div>
         {{ end }}
         </div>
+        <div class="space-below"></div>
 
     {{ .Content }}
     </div>
