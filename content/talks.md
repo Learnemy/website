@@ -2,9 +2,10 @@
 author = "Elisha Tan"
 date = 2020-09-06T12:36:43Z
 description = "Invite Elisha to speak at your next event"
-draft = true
 tags = []
 title = "Talks"
+[menu.main]
+weight = 4
 
 +++
 I enjoy sharing my experiences at events, conferences, and schools around the world. I've delivered keynote presentations, participated in panel discussions, and moderated panel discussions to an audience ranging from 20 to 350 people of diverse backgrounds. 
