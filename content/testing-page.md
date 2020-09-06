@@ -3,7 +3,7 @@ author = "Elisha Tan"
 date = 2020-09-05T12:43:50Z
 description = "Invite Elisha to your next event!"
 tags = []
-title = "Talks"
+title = "Talks old"
 [menu.main]
 weight = 4
 
@@ -14,13 +14,11 @@ Invite me to speak at your next event on the following topics.
 
 ![](/uploads/speaking.jpeg)
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/kO66Y-501dc](https://www.youtube.com/embed/kO66Y-501dc "https://www.youtube.com/embed/kO66Y-501dc")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Building developer communities
 
 I've created a framework for companies and volunteers to build sustainable developer communities from scratch, and I can demonstrate how you can use this to design initiatives for developers.
 
-I've spoken about this at [DevRelCon London](https://noti.st/elishatan/z8MC09/design-thinking-how-do-you-design-developer-programs), [PyCon Thailand](https://www.youtube.com/watch?v=zLwGJ3GyBxI), [DevRel Summit](https://youtu.be/qgUd_S3jFn0?t=9524), [SRECon Asia](https://www.youtube.com/watch?v=wWnKqDl9Gcg), and [RubyConf MY](https://www.youtube.com/watch?v=GxSb7LLEgNY).
+I've spoken about this at [DevRelCon London](https://www.youtube.com/watch?v=kO66Y-501dc) (as a keynote speaker), [PyCon Thailand](https://www.youtube.com/watch?v=zLwGJ3GyBxI), [DevRel Summit](https://youtu.be/qgUd_S3jFn0?t=9524), [SRECon Asia](https://www.youtube.com/watch?v=wWnKqDl9Gcg), and [RubyConf MY](https://www.youtube.com/watch?v=GxSb7LLEgNY).
 
 ### Tackling gender diversity in tech
 
