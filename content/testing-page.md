@@ -4,8 +4,6 @@ date = 2020-09-05T12:43:50Z
 description = "Invite Elisha to your next event!"
 tags = []
 title = "Talks old"
-[menu.main]
-weight = 4
 
 +++
 I enjoy sharing my experiences at events, conferences, and schools around the world. I've delivered keynote presentations, participated in panel discussions, and moderated panel discussions to an audience ranging from 20 to 350 people of diverse backgrounds. 
