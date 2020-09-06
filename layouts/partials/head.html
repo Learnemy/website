@@ -26,17 +26,17 @@
       <meta itemprop="image" content="{{ . | absURL }}" />
       <meta property="og:image" content="{{ . | absURL }}" /> 
       <meta name="twitter:image" content="{{ . | absURL }}" />
-      <meta name="twitter:image:src" content="{{ . | absURL }}" /> 
     {{ else }}
       <meta itemprop="image" content="{{ .Site.Params.images | absURL }}" />
       <meta property="og:image" content="{{ .Site.Params.images | absURL }}" />
       <meta name="twitter:image" content="{{ .Site.Params.images | absURL }}" />
-      <meta name="twitter:image:src" content="{{ .Site.Params.images | absURL }}" /> 
     {{ end }}
     
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:title" content="{{.Site.Params.author}}{{ with .Title }} | {{ . }}{{ end }}"/>
     <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
+    <meta name="twitter:site" content="@elishatan" />
+    <meta name="twitter:creator" content="@elishatan" />
 
 
  
