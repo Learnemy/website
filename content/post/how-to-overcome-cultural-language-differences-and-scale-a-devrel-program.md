@@ -21,21 +21,19 @@ I studied how other organizations tackle this problem and discovered that the me
 
 Both of which are not ideal because:
 
-##### Copy-pasting a DevRel program ignores local context & affects engagement
+#### Copy-pasting a DevRel program ignores local context & affects engagement
 
 For example, it is very common to find overnight hackathons in the USA where alcohol and communal resting areas are provided. **While these may be perks in that country, it would be tone-deaf to audiences in other markets**, such as Indonesia and Pakistan.
 
 It may also discourage women from participating as it’s not safe for them to be out late, more so if they’re expected to rest in a gender-neutral communal space.
 
-##### Outsourcing entirely to a local partner affects your effectiveness as a DevRel professional
+#### Outsourcing entirely to a local partner affects your effectiveness as a DevRel professional
 
 **You know your company’s culture, internal dynamics, resources, and goals far better than any partners.** You are the best person to get things done while maintaining brand consistencies globally.
 
 I believe that a company should own their relationships with developers, not a third party. I’ve seen amazing community leaders move away from specific companies because they didn’t like the partner’s management style.
 
 [![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--2RvTBmc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/6h93d9obf73fqz18kcym.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2RvTBmc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/6h93d9obf73fqz18kcym.png)
-
-    The best analogy to scaling developer relations programs. I'm lovin' it.
 
 ### Same same but different is my recommendation
 
@@ -51,8 +49,6 @@ The challenge here is getting to the right balance between consistency across ma
 
 [![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--uBZFqGeD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/vggqydyt57np0qy2e27z.jpg)](https://res.cloudinary.com/practicaldev/image/fetch/s--uBZFqGeD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/vggqydyt57np0qy2e27z.jpg)
 
-    Google is your best friend. Do your homework.
-
 ### 1. Do your online research
 
 This may sound very basic, but it will surprise you how many people don’t do it before visiting a new market. Yes, the purpose of a research trip is to learn about the market. Yes, it may be difficult to find information on the developer landscape in certain markets. However, **having a high level understanding of a country before a trip is table-stakes to showing respect and interest in the market.**
@@ -62,8 +58,6 @@ It’s just like how you read up on a company before a job interview in preparat
 **Pro-tip:** Read up about the developer and cultural landscape before you visit a new market. High-level information like major cultural practices, mobile usage, connectivity challenges, and payment modes are easily found on most of the markets with a sizeable amount of developers.
 
 [![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--tgPM4xaT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/pmx57hozuxc38632ycdg.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tgPM4xaT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/pmx57hozuxc38632ycdg.png)
-
-    The only time the host printed a banner for me. I regret not asking if I could keep it.
 
 ### 2. Learn from the locals
 
@@ -84,8 +78,6 @@ I’ll be honest - sometimes I find it difficult to hold my tongue from commenti
 
 [![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s---2m0RBQE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/7u3c9eyy146lta3svrol.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---2m0RBQE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/7u3c9eyy146lta3svrol.png)
 
-    My favorite compliment is where people asked if I've lived in their country or grew up there.
-
 ### 3. Appreciate and observe the local culture
 
 While I can’t speak for other regions, people in Asia generally appreciate people taking part in their cultures through language, clothing, and food.
@@ -97,8 +89,6 @@ One thing that I didn’t expect was how many people appreciated my effort! I’
 **Pro-tip:** Learn to say simple phrases like hello and thank you to better connect with the audience. Observe local cultural business practices.
 
 [![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--nhho2y4C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/0o105jfjg0k8g9c6a5vy.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nhho2y4C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/0o105jfjg0k8g9c6a5vy.png)
-
-    Past and present Developer Circles leads in Vietnam.
 
 ### 4. Find local partner/s
 
@@ -113,8 +103,6 @@ However, having a superb partner doesn’t mean to outsource the entire program 
 * Co-create developer programs with your local partner - you provide the direction and resources, they provide the local strategy and execution.
 
 [![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--3xZXNHkY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/wt874hqerjujsejsddbv.jpg)](https://res.cloudinary.com/practicaldev/image/fetch/s--3xZXNHkY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/wt874hqerjujsejsddbv.jpg)
-
-    Applicable in both business and sports.
 
 ### 5. Check in with your local partner/s and developers
 
@@ -137,19 +125,19 @@ If you’ve found this article useful, subscribe to my newsletter where you will
 
 #### ✨ Subscribe here: [https://bit.ly/updatesfromsha](https://bit.ly/updatesfromsha "https://bit.ly/updatesfromsha") * ✨
 
- 
+&nbsp;
 
- 
+&nbsp;
 
- 
+&nbsp;
 
- 
+&nbsp;
 
- 
+&nbsp;
 
- 
+&nbsp;
 
- 
+&nbsp;
 
 ***
 
@@ -158,4 +146,3 @@ If you’ve found this article useful, subscribe to my newsletter where you will
 * [McDonald's](https://www.mcdonalds.com.sg/our-food/)
 * [Indonesia Fintech Map](https://fintechnews.sg/35731/indonesia/the-digital-ecosystems-that-will-help-indonesia-reach-80-financial-inclusion/)
 * [Mike Tyson's quote](https://fewzion.com.au/mike-tyson-everyone-has-a-plan-until-they-get-punched-in-the-mouth/)
-* 
