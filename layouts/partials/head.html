@@ -6,7 +6,7 @@
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <meta property="og:type" content="website" />
     <meta property="og:image" content="{{ if .Params.og_image }} > `` > `` > {{ else }} > `` > `` > {{ end }}" />
-
+    {{ template "_internal/opengraph.html" . }}
 
     {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" type="text/css">
