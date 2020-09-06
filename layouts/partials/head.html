@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"> 
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <meta property="og:type" content="website" />
+    <meta property="og:image" content="{{ if .Params.og_image }} > `` > `` > {{ else }} > `` > `` > {{ end }}" />
+
 
     {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" type="text/css">
