@@ -349,8 +349,7 @@ a:active {
   letter-spacing: 1px;
   line-height: 1;
   font-weight: 600;
-  /* color: #464646; */
-  color: var(--heading-color);
+  color: var(--purple);
   font-size: 22px;
   margin: 0;
 }
