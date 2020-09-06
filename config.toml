@@ -21,7 +21,7 @@ name = "About"
 url = "/about/"
 weight = 3
 [params]
-author = "Elisha Tan"
+author = "Elisha"
 customCss = []
 customJs = []
 description = "Elisha is a Developer Community Programs Manager at Facebook, the Founder of TechLadies, and the Co-founder of DevRelFolks Asia. She is passionate about bringing people together to solve big problems."
