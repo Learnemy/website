@@ -2,7 +2,7 @@
 author = "Elisha Tan"
 date = 2020-08-06T04:58:50Z
 description = "In my keynote talk at DevRelCon London 2019, I shared a framework on how to start a developer relations program that was well-received. This article, building off that talk, shares some best practices on scaling developer programs overseas."
-main_image = "/uploads/23231464_10210716502374996_1281401760802768181_n.jpg"
+og_image = "/uploads/23231464_10210716502374996_1281401760802768181_n.jpg"
 tags = ["scale", "developer relations", "best practices", "community"]
 title = "How to overcome cultural & language differences and scale a DevRel program"
 
