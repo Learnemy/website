@@ -14,6 +14,8 @@ Invite me to speak at your next event on the following topics.
 
 ![](/uploads/speaking.jpeg)
 
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/kO66Y-501dc](https://www.youtube.com/embed/kO66Y-501dc "https://www.youtube.com/embed/kO66Y-501dc")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Building developer communities
 
 I've created a framework for companies and volunteers to build sustainable developer communities from scratch, and I can demonstrate how you can use this to design initiatives for developers.
