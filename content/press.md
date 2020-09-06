@@ -4,6 +4,8 @@ date = 2020-09-06T12:16:54Z
 description = "See where Elisha has been featured"
 tags = []
 title = "Press"
+[menu.main]
+weight = 5
 
 +++
 ### **_"Elisha Tan is an impressive entrepreneur with an inspiring story and passionate approach to social progress." -_** [**_John Barilaro, NSW Deputy Premier_**](https://www.itwire.com/education/85121-singapore-female-tech-leader-to-speak-at-nsw-events.html)
