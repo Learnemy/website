@@ -5,7 +5,19 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"> 
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="{{ if .image }}{{ .image | absURL }}{{ else }}{{ images/og_image.jpg | absURL }}" >
+
+
+    {{ with .Params.og_image }} 
+      <meta itemprop="image" content="{{ . | absURL }}" />
+      <meta property="og:image" content="{{ . | absURL }}" /> 
+      <meta name="twitter:image" content="{{ . | absURL }}" />
+      <meta name="twitter:image:src" content="{{ . | absURL }}" /> 
+    {{ else }}
+      <meta itemprop="image" content="{{ .Site.Params.image | absURL }}" />
+      <meta property="og:image" content="{{ .Site.Params.image | absURL }}" />
+      <meta name="twitter:image" content="{{ .Site.Params.image | absURL }}" />
+      <meta name="twitter:image:src" content="{{ .Site.Params.image | absURL }}" /> 
+    {{ end }}
       
  
     {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
