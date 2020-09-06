@@ -379,17 +379,17 @@ a:active {
 
 .post .post-content h2 {
   font-size: 1.7em;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .post .post-content h3 {
   font-size: 1.32em;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .post .post-content h4 {
   font-size: 1.2em;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .post .post-content img {
@@ -399,6 +399,10 @@ a:active {
   display: block;
   margin: auto;
   max-height: calc(50vh + 180px);
+}
+
+.post .post-content ul li {
+  line-height: 1.9em;
 }
 
 /* Content elements */
