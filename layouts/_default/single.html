@@ -16,6 +16,14 @@
 
     {{ .Content }}
     </div>
+
+    <div class="post-footer">
+      <div class="info">
+        <p>Call to action</p>
+      </div>
+    </div>
+
+
     <div class="post-footer">
       <div class="info">
         {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
