@@ -1,9 +1,9 @@
 +++
-author = "Hugo Authors"
-date = 2019-03-10T00:00:00Z
-description = "A brief description of Hugo Shortcodes"
+author = "Elisha Tan"
+date = ""
+description = "In my keynote talk at DevRelCon London 2019, I shared a framework on how to start a developer relations program that was well-received. This article, building off that talk, shares some best practices on scaling developer programs overseas."
 tags = ["shortcodes", "privacy"]
-title = "Rich Content-(copy)-(copy)-(copy)"
+title = "How to overcome cultural & language differences and scale a DevRel program"
 
 +++
 Can edit? yo
