@@ -12,7 +12,7 @@ That was me 4 years ago. When I started doing DevRel at Facebook - I was not wel
 
 It was a challenge to scale a global developer relations program in Asia, a region that speaks over 2000 languages with multitudes of cultures.
 
-### Common ways to scale developer relations programs and why they both aren’t quite right
+## Common ways to scale developer relations programs and why they both aren’t quite right
 
 I studied how other organizations tackle this problem and discovered that the methods categorized into 2 schools of thoughts:
 
@@ -35,7 +35,7 @@ I believe that a company should own their relationships with developers, not a t
 
 [![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--2RvTBmc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/6h93d9obf73fqz18kcym.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2RvTBmc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/6h93d9obf73fqz18kcym.png)
 
-### Same same but different is my recommendation
+## Same same but different is my recommendation
 
 My best practice is to adopt an approach that’s somewhere in-between these two - **design a global DevRel program that allows for some local adaptions and create these adaptions with a local execution partner. Then, consistently check-in with the partner to adjust the program accordingly.**
 
