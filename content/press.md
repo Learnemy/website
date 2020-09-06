@@ -8,7 +8,9 @@ title = "Press"
 weight = 5
 
 +++
-### **_"Elisha Tan is an impressive entrepreneur with an inspiring story and passionate approach to social progress." -_** [**_John Barilaro, NSW Deputy Premier_**](https://www.itwire.com/education/85121-singapore-female-tech-leader-to-speak-at-nsw-events.html)
+![](/uploads/nyc-elisha02.jpg)
+
+### "Elisha Tan is an impressive entrepreneur with an inspiring story and passionate approach to social progress." - John Barilaro, NSW Deputy Premier
 
 * Singapore Global Network: [Women in Tech: Championing the minorities](https://singaporeglobalnetwork.gov.sg/stories/tech/women-in-tech-championing-the-minorities/)
 * Channel News Asia: [Seeking Out the Sliver Linings](https://www.channelnewsasia.com/news/brandstudio/singaporeyouthaward/champions/elisha-tan)
