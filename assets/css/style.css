@@ -340,7 +340,7 @@ a:active {
   text-transform: capitalize;
   letter-spacing: 1px;
   font-size: 28px;
-  line-height: 1;
+  line-height: 1.2;
   font-weight: 600;
   color: var(--purple);
 }
@@ -348,7 +348,7 @@ a:active {
 .post .post-title h3 {
   text-transform: capitalize;
   letter-spacing: 1px;
-  line-height: 1;
+  line-height: 1.2;
   font-weight: 600;
   color: var(--purple);
   font-size: 22px;
@@ -1012,4 +1012,15 @@ a.btn {
   font-size: 0.7em;
   line-height: 0.5em;
   margin: 0;
+}
+
+.subscription-box {
+  border-bottom-left-radius:6px;
+  border-bottom-right-radius:6px;
+  border-top-left-radius:6px;
+  border-top-right-radius:6px;
+  box-shadow:rgba(210, 214, 220, 0.5) 0px 2px 15px 0px;
+  box-sizing:border-box;
+  color:rgb(34, 34, 34);
+  display:block;
 }
