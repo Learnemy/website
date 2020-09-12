@@ -1003,3 +1003,12 @@ a.btn {
   margin-bottom: 20px;
   display: inline-block;
 }
+
+.post .post-footer .image-credits {
+  border-bottom: none;
+}
+
+.post .post-footer .image-credits .info p {
+  font-size: 0.7em;
+  line-height: 0.5em;
+}
