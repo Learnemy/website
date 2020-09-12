@@ -32,7 +32,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: image_credits
 pages:
 - content/post/how-to-overcome-cultural-language-differences-and-scale-a-devrel-program.md
