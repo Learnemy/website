@@ -25,11 +25,15 @@ fields:
 - type: list
   name: tags
   label: tags
-- name: image_credits
-  type: text
+- name: image_credits2
+  type: textarea
+  default: ''
   config:
     required: false
-  label: image credits
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: image_credits
 pages:
 - content/post/how-to-overcome-cultural-language-differences-and-scale-a-devrel-program.md
 - content/post/testing.md
