@@ -25,7 +25,7 @@ fields:
 - type: list
   name: tags
   label: tags
-- name: image_credits2
+- name: image_credits
   type: textarea
   default: ''
   config:
