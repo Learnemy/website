@@ -1024,3 +1024,13 @@ a.btn {
   color:rgb(34, 34, 34);
   display:block;
 }
+
+.subscription-box-content {
+  padding: 40px;
+}
+
+.subscription-box-content img {
+    max-width: 160px;
+    float: left;
+    margin-right: 20px;
+}
