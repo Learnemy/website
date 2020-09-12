@@ -27,7 +27,7 @@ fields:
   label: tags
 - name: image_credits
   type: textarea
-  #default: ''
+  default: ''
   config:
     required: false
     wysiwyg: true
