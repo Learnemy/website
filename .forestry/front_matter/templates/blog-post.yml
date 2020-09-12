@@ -25,14 +25,14 @@ fields:
 - type: list
   name: tags
   label: tags
-- name: image_credits2
+- name: image_credits
   type: textarea
   default: ''
   config:
     required: false
     wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: image_credits
 pages:
 - content/post/how-to-overcome-cultural-language-differences-and-scale-a-devrel-program.md
