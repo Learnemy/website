@@ -5,7 +5,7 @@ description = "In my keynote talk at DevRelCon London 2019, I shared a framework
 image_credits = "<p><strong>Image credits:</strong></p><ul><li><p><a href=\"https://www.mcdonalds.com.sg/our-food/\" target=\"_blank\">McDonald’s</a></p></li><li><p><a href=\"https://fintechnews.sg/35731/indonesia/the-digital-ecosystems-that-will-help-indonesia-reach-80-financial-inclusion/\" target=\"_blank\">Indonesia Fintech Map</a></p></li><li><p><a href=\"https://fewzion.com.au/mike-tyson-everyone-has-a-plan-until-they-get-punched-in-the-mouth/\" target=\"_blank\">Mike Tyson’s quote</a></p></li></ul>"
 og_image = "/uploads/23231464_10210716502374996_1281401760802768181_n.jpg"
 tags = ["scale", "developer relations", "best practices", "community"]
-title = "How to overcome cultural & language differences and scale a DevRel program"
+title = "How to overcome cultural & language How to overcome cultural & language differences and scale a DevRel program"
 
 +++
 **Say you have built up a great developer relations program in your local market and are ready to expand your program to engage with developers overseas who may not speak your language. How and where do you start?**
@@ -125,26 +125,4 @@ I hope these best practices are helpful! These are the lessons I’ve learned on
 
 If you’ve found this article useful, subscribe to my newsletter where you will receive monthly emails on my lessons learned as a DevRel professional, building communities, and designing developer relations programs.
 
-#### ✨ Subscribe here: [https://bit.ly/updatesfromsha](https://bit.ly/updatesfromsha "https://bit.ly/updatesfromsha") * ✨
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-***
-
-**Image credits:**
-
-* [McDonald's](https://www.mcdonalds.com.sg/our-food/)
-* [Indonesia Fintech Map](https://fintechnews.sg/35731/indonesia/the-digital-ecosystems-that-will-help-indonesia-reach-80-financial-inclusion/)
-* [Mike Tyson's quote](https://fewzion.com.au/mike-tyson-everyone-has-a-plan-until-they-get-punched-in-the-mouth/)
+#### ✨ Subscribe here: [https://bit.ly/updatesfromsha](https://bit.ly/updatesfromsha "https://bit.ly/updatesfromsha") ✨
