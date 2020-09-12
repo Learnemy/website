@@ -1004,11 +1004,11 @@ a.btn {
   display: inline-block;
 }
 
-.post .post-footer .image-credits {
+.image-credits {
   border-bottom: none;
 }
 
-.post .post-footer .image-credits .info p {
+.image-credits .info p {
   font-size: 0.7em;
   line-height: 0.5em;
 }
