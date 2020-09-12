@@ -25,17 +25,19 @@
 
     <div class="post-footer">
       <div class="info">
+        {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+        {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+      </div>
+    </div>
+
+    <div class="post-footer">
+      <div class="info image-credits">
         {{ .Params.image_credits | markdownify }}
       </div>
     </div>
 
 
-    <div class="post-footer">
-      <div class="info">
-        {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
-        {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
-      </div>
-    </div>
+    
 
     {{ if eq .Type "post"}}
     {{ if .Site.DisqusShortname -}}
