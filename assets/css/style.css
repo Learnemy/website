@@ -1053,17 +1053,20 @@ a.btn {
 }
 
 
-#signup-email {
-  height: 36px;
-  font-size: 16px;
-  font-family: "Helvetica Neue",Arial,sans-serif;
+#mc_embed_signup input.email {
+  height: 36px !important;
+  font-size: 16px !important;
+  font-family: "Helvetica Neue",Arial,sans-serif !important;
 }
 
 #mc_embed_signup .button {
   height: 36px !important; 
   font-size: 16px !important; 
   background-color: var(--purple) !important; 
+}
 
+#mc_embed_signup .button:hover { 
+  background-color: var(--lighter-purple) !important;
 }
 
 #mc_embed_signup{background:#fff; clear:left; width:100%;}
