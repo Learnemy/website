@@ -41,7 +41,7 @@
 
  
     {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet" href="/style.css" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" type="text/css">
+    <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" type="text/css">
     {{- $css := "" -}}
     {{- range .Site.Params.customCss -}}
     {{ $css := resources.Get . | fingerprint }}
