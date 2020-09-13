@@ -2,7 +2,6 @@
 author = "Elisha Tan"
 date = 2020-05-13T08:25:08Z
 description = "Last Dec, I was the opening keynote speaker at DevRelCon London 2019. But as my title suggests… I almost turned this opportunity down because of all the negative stories I told myself."
-draft = true
 image_credits = ""
 og_image = "/uploads/us46w69424r632spze7t.jpeg"
 tags = ["developer relations", "best practices", "public speaking"]
