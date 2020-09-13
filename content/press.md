@@ -1,7 +1,9 @@
 +++
 author = "Elisha Tan"
-date = 2020-09-06T12:16:54Z
+date = "2020-09-06T12:16:54.000+00:00"
 description = "See where Elisha has been featured"
+image_credits = ""
+og_image = "/uploads/nyc-elisha02.jpg"
 tags = []
 title = "Press"
 [menu.main]
