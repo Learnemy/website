@@ -1065,8 +1065,8 @@ a.btn {
   background-color: var(--purple) !important; 
 }
 
-#mc_embed_signup input:hover { 
-  background-color: var(--lighter-purple) !important;
+#mc_embed_signup .button:hover { 
+  background-color: red !important;
 }
 
 #mc_embed_signup{background:#fff; clear:left; width:100%;}
