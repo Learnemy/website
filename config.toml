@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseURL = "https://clever-galileo-741632.netlify.app/"
+baseURL = "http://www.elishatan.com/"
 enableEmoji = true
 enableRobotsTXT = true
 languageCode = "en"
