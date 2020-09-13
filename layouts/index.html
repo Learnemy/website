@@ -1,10 +1,16 @@
 {{ define "main" }}
-  <div class="post animated fadeInDown">
-    <h3>I am passionate about bringing people together to solve big problems.</h3>
-    <p>I’m the Developer Community Programs Manager at Facebook, where I support teams to design developer programs for product goals. Outside of my work, I founded TechLadies–a non-profit community for women to learn technical skills to switch careers into the tech industry, and DevRel Folks Asia - a community for DevRel professionals to level up in their careers.  </p>
-    <p>I’m featured on various media such as Channel News Asia, CNBC, The Straits Times, High Net Worth, and I was invited as a keynote speaker at <a href="https://www.youtube.com/watch?v=kO66Y-501dc" target=”_blank”>DevRelCon London</a>, <a href="https://www.youtube.com/watch?v=iZVAFrBzWKI&t=769s" target=”_blank”>International Women's Day by Jobs for New South Wales Australia</a>, and has spoken at <a href="https://www.youtube.com/watch?v=fHzXTVrGxj8" target=”_blank”>Campus Party</a>, <a href="https://www.youtube.com/watch?v=zLwGJ3GyBxI" target=”_blank”>PyCon Thailand</a>, Seedstars Summit Asia, Slush Singapore, and <a href="https://www.youtube.com/watch?v=GxSb7LLEgNY" target=”_blank”>RubyConf MY</a> to name a few.</p>
-    <p><a href="/talks" target=”_blank”>Invite me to speak at your event</a>a> on DevRel, tackling gender diversity in tech, or overcoming failures, or reach out to discuss how we can leverage tech for good. </p>
-    <hr>
+  <div class="post animated fadeInDown">\
+    <div class="main-intro">
+      <h3>I am passionate about bringing people together to solve big problems.</h3>
+      <p>I’m the Developer Community Programs Manager at Facebook, where I support teams to design developer programs for product goals. Outside of my work, I founded <a href="http://www.techladies.co" target=”_blank”>TechLadies</a> – a non-profit community for women to learn technical skills to switch careers into the tech industry, and <a href="https://www.eventbrite.sg/o/devrel-folks-30495303240" target=”_blank”>DevRel Folks</a> - a community for DevRel professionals to level up in their careers. </p>
+      <p>I’m featured on various media such as <a href="https://www.channelnewsasia.com/news/brandstudio/singaporeyouthaward/champions/elisha-tan" target="_blank" rel="noopener">Channel News Asia</a>, <a href="https://www.cnbc.com/2015/05/22/how-sharing-failure-stories-has-become-a-global-movement.html" target=”_blank”>CNBC</a>, <a href="https://www.straitstimes.com/tech/learning-website-founder-was-code-illiterate" target=”_blank”>The Straits Times</a>, <a href="https://www.facebook.com/photo.php?fbid=10155784288227597&set=picfp.633197596&type=3&theater" target=”_blank”>Her World</a>, and I was invited as a keynote speaker at <a href="https://www.youtube.com/watch?v=kO66Y-501dc" target=”_blank”>DevRelCon London</a>, <a href="https://www.youtube.com/watch?v=iZVAFrBzWKI&t=769s" target=”_blank”>International Women's Day by Jobs for New South Wales Australia</a>, and has spoken at <a href="https://www.youtube.com/watch?v=fHzXTVrGxj8" target=”_blank”>Campus Party</a>, <a href="https://www.youtube.com/watch?v=zLwGJ3GyBxI" target=”_blank”>PyCon Thailand</a>, Seedstars Summit Asia, Slush Singapore, and <a href="https://www.youtube.com/watch?v=GxSb7LLEgNY" target=”_blank”>RubyConf MY</a> to name a few.</p>
+      <p><a href="/talks" target=”_blank”>Invite me to speak at your event</a> on DevRel, tackling gender diversity in tech, or overcoming failures, or reach out to discuss how we can leverage tech for good. </p>
+    </div>
+    <div class="post-footer space-above-40">
+      <div class="info">
+        {{ partial "subscription.html" . }}
+      </div>
+    </div>
   </div>
   {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
   {{ range $paginator.Pages }}

@@ -1066,7 +1066,20 @@ a.btn {
 }
 
 #mc_embed_signup .button:hover { 
-  background-color: red !important;
+  background-color: #936aa6 !important;
 }
 
-#mc_embed_signup{background:#fff; clear:left; width:100%;}
+#mc_embed_signup {
+  background:#fff; 
+  clear:left; 
+  width:100%;
+}
+
+.main-info {
+  border-bottom: 1px solid var(--border-color);
+}
+
+.main-info a {
+  color: var(--purple);
+  text-decoration: underline;
+}
