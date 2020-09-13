@@ -7,6 +7,8 @@ og_image = "/uploads/nyc-elisha02.jpg"
 title = "About"
 
 +++
+[![Elisha speaking at TechLadies](/uploads/section11.jpg)
+
 I started my career as a fresh grad entrepreneur, wanting to help people make a living with their passion. My startup journey took me through many challenges - from learning how to code when I couldn't find a tech co-founder, testing new ideas to grow the product, to moving to Silicon Valley for mentorship.
 
 I've put my heart and soul into Learnemy but it eventually failed. Then I found a job at a startup and was fired 6 months after. 
