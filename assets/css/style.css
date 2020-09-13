@@ -1066,7 +1066,7 @@ a.btn {
 }
 
 #mc_embed_signup .button:hover { 
-  background-color: #936aa6 !important;
+  background-color: #A881B8 !important;
 }
 
 #mc_embed_signup {
@@ -1079,7 +1079,11 @@ a.btn {
   border-bottom: 1px solid var(--border-color);
 }
 
-.main-info a {
+.main-info p a {
   color: var(--purple);
   text-decoration: underline;
+}
+
+.main-info p a:hover {
+  color: #A881B8;
 }

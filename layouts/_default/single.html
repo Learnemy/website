@@ -19,7 +19,13 @@
 
     <div class="post-footer space-above-40">
       <div class="info">
-        {{ partial "subscription.html" . }}
+        <div class="subscription-box">
+          <div class="subscription-box-content">
+            <img src="/images/avocado_newsletter.png" alt="Avocado Newsletter">
+            <h3>Like what you read? Subscribe for more.</h3>
+            {{ partial "subscription.html" . }}
+          </div>
+        </div>        
       </div>
     </div>
 
