@@ -1075,15 +1075,15 @@ a.btn {
   width:100%;
 }
 
-.main-info {
+.main-intro {
   border-bottom: 1px solid var(--border-color);
 }
 
-.main-info p a {
+.main-intro p a {
   color: var(--purple);
   text-decoration: underline;
 }
 
-.main-info p a:hover {
+.main-intro p a:hover {
   color: #A881B8;
 }
