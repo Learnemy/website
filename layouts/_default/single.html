@@ -16,7 +16,7 @@
 
     {{ .Content }}
     </div>
-
+    {{ if eq .Type "post"}}
     <div class="post-footer space-above-40">
       <div class="info">
         <div class="subscription-box">
@@ -41,6 +41,7 @@
         {{ .Params.image_credits | markdownify }}
       </div>
     </div>
+    {{ end }}
 
 
     {{ if eq .Type "post"}}

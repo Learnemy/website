@@ -1075,13 +1075,8 @@ a.btn {
   width:100%;
 }
 
-.main-intro {
-  border-bottom: 1px solid var(--border-color);
-}
-
 .main-intro p a {
   color: var(--purple);
-  text-decoration: underline;
 }
 
 .main-intro p a:hover {
