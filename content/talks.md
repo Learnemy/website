@@ -12,7 +12,7 @@ weight = 4
 +++
 I enjoy sharing my experiences at events, conferences, and schools around the world. I've delivered keynote presentations, participated in panel discussions, and moderated panel discussions to an audience ranging from 20 to 350 people of diverse backgrounds. 
 
-Invite me to speak at your next event on the following topics.
+Reach out to me at elisha.tan@gmail.com to speak at your next event on the following topics.
 
 ![](/uploads/speaking.jpeg)
 
