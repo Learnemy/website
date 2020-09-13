@@ -1053,13 +1053,13 @@ a.btn {
 }
 
 
-#mc_embed_signup input.email {
+#signup-email {
   height: 36px;
   font-size: 16px;
   font-family: "Helvetica Neue",Arial,sans-serif;
 }
 
-#mc_embed_signup .button {
+#signup-button {
   height: 36px;
   font-size: 16px;
   background-color: var(--lighter-purple);
