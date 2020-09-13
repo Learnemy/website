@@ -1,6 +1,6 @@
 +++
 author = "Elisha Tan"
-date = 2020-07-13T08:34:32Z
+date = 2020-03-13T08:34:32Z
 description = " I write this series as guidance for community organisers and DevRel folks navigating building dev communities during the coronavirus season. It draws upon from my personal experience and from observing how other communities are tackling this issue."
 draft = true
 image_credits = "<h4>Image credits:</h4><ul><li><p><a href=\"https://www.facebook.com/thepracticaldev/videos/930381547138167/\">BaseCS: Linked Lists</a></p></li><li><p><a href=\"https://www.youtube.com/watch?v=EGaHrp7X2so\">EmberConf 2020 CFP Brainstorm</a></p></li><li><p><a href=\"https://www.facebook.com/1508855429185638/videos/681409619333856/\">Facebook #TechbyHer Online Conference</a></p></li><li><p><a href=\"https://www.youtube.com/watch?v=qKG7a8mTqqE&amp;t=972s\">React Knowledgeable #66: RK Got Friends</a></p></li><li><p><a href=\"https://www.facebook.com/photo.php?fbid=10158079877533936&amp;set=oa.2514859195457466&amp;type=3&amp;theater&amp;ifg=1\">Facebook Developer Circle: Bangkok</a></p></li><li><p><a href=\"https://www.facebook.com/groups/SingaporeCSS/\">Talk.CSS #48</a></p></li></ul>"
