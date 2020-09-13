@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="post animated fadeInDown">
-    <h1>testing stattic text up top on home page.</h1>
-    <p><br><br> I am passionate about bringing people together to solve big problems.<br/><br/> Subscribe to my newsletter to receive content on DevRel career advice, building communities, and designing developer programs: <a href="https://bit.ly/3k4aGvZ">https://bit.ly/updatesfromsha</a></p>p>
+    <h3>I am passionate about bringing people together to solve big problems.</h3>
+    <p><br><br> <br/><br/> Subscribe to my newsletter to receive content on DevRel career advice, building communities, and designing developer programs: <a href="https://bit.ly/3k4aGvZ">https://bit.ly/updatesfromsha</a></p>p>
     <hr>
   </div>
   {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}

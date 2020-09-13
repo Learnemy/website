@@ -1059,9 +1059,9 @@ a.btn {
   font-family: "Helvetica Neue",Arial,sans-serif;
 }
 
-#signup-button {
-  height: 36px;
-  font-size: 16px;
-  background-color: var(--lighter-purple);
+#mc_embed_signup .button {
+  height: 36px; !important
+  font-size: 16px; !important
+  background-color: var(--purple); !important
 
 }
