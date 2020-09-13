@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseURL = "http://www.elishatan.com/"
+baseURL = "https://www.elishatan.com/"
 enableEmoji = true
 enableRobotsTXT = true
 languageCode = "en"
