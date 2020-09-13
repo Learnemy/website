@@ -1,7 +1,9 @@
 +++
 author = "Elisha Tan"
-date = 2020-09-06T12:36:43Z
+date = "2020-09-06T12:36:43.000+00:00"
 description = "Invite Elisha to speak at your next event"
+image_credits = ""
+og_image = ""
 tags = []
 title = "Talks"
 [menu.main]

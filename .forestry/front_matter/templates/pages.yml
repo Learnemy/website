@@ -22,3 +22,5 @@ fields:
   config:
     required: false
   label: description
+pages:
+- content/talks.md
