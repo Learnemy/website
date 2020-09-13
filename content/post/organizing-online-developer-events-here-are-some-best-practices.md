@@ -2,7 +2,6 @@
 author = "Elisha Tan"
 date = 2020-03-13T08:37:06Z
 description = "This series is written as guidance for community organisers and devrel folks navigating building dev communities during the coronavirus season. It draws upon from my personal experience and from observing how other communities are tackling this issue."
-draft = true
 image_credits = "<h4>Image credits:</h4><ul><li><p><a href=\"https://www.emberconf.com/\">EmberConf 2020</a></p></li><li><p><a href=\"https://www.facebook.com/1508855429185638/videos/681409619333856/\">Facebook #TechbyHer Online Conference</a></p></li><li><p><a href=\"https://techcommunity.microsoft.com/t5/community-events-list/microsoft-tech-community-apac-online/m-p/1187340\">Microsoft Tech Community APAC Online</a></p></li></ul>"
 og_image = "/uploads/38wrdr0rxovqos2rw7jo.png"
 tags = ["online events", "best practices", "community", "developer relations"]
