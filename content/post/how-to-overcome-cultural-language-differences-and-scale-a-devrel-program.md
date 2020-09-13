@@ -3,9 +3,9 @@ author = "Elisha Tan"
 date = 2020-08-06T04:58:50Z
 description = "In my keynote talk at DevRelCon London 2019, I shared a framework on how to start a developer relations program that was well-received. This article, building off that talk, shares some best practices on scaling developer programs overseas."
 image_credits = "<p><strong>Image credits:</strong></p><ul><li><p><a href=\"https://www.mcdonalds.com.sg/our-food/\" target=\"_blank\">McDonald’s</a></p></li><li><p><a href=\"https://fintechnews.sg/35731/indonesia/the-digital-ecosystems-that-will-help-indonesia-reach-80-financial-inclusion/\" target=\"_blank\">Indonesia Fintech Map</a></p></li><li><p><a href=\"https://fewzion.com.au/mike-tyson-everyone-has-a-plan-until-they-get-punched-in-the-mouth/\" target=\"_blank\">Mike Tyson’s quote</a></p></li></ul>"
-og_image = "/uploads/23231464_10210716502374996_1281401760802768181_n.jpg"
+og_image = "/uploads/speaking.jpeg"
 tags = ["scale", "developer relations", "best practices", "community"]
-title = "How to overcome cultural & language How to overcome cultural & language differences and scale a DevRel program"
+title = "How to overcome cultural & language differences and scale a DevRel program"
 
 +++
 **Say you have built up a great developer relations program in your local market and are ready to expand your program to engage with developers overseas who may not speak your language. How and where do you start?**
