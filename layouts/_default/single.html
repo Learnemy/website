@@ -17,7 +17,7 @@
     {{ .Content }}
     </div>
 
-    <div class="post-footer">
+    <div class="post-footer space-above-40">
       <div class="info">
         {{ partial "subscription.html" . }}
       </div>
@@ -36,8 +36,6 @@
       </div>
     </div>
 
-
-    
 
     {{ if eq .Type "post"}}
     {{ if .Site.DisqusShortname -}}
