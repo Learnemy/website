@@ -22,6 +22,15 @@ fields:
   config:
     required: false
   label: description
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: body
 pages:
 - content/about.md
 - content/press.md
