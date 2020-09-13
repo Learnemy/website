@@ -2,7 +2,6 @@
 author = "Elisha Tan"
 date = 2020-07-13T08:21:38Z
 description = "To celebrate of our time together as I move onto my next role, I shared a few key lessons with the Developer Circles community leaders. These are lessons that shaped how I see my career within and outside of Facebook and honestly, how I see the world."
-draft = true
 image_credits = ""
 og_image = "/uploads/4m6bdm779uf54mm100o7.jpeg"
 tags = ["leadership", "developer relations", "community"]
