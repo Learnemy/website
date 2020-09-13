@@ -23,5 +23,6 @@ fields:
     required: false
   label: description
 pages:
+- content/about.md
 - content/press.md
 - content/talks.md
