@@ -1053,15 +1053,15 @@ a.btn {
 }
 
 
-div.mc-field-group input {
+#mc_embed_signup input.email {
   height: 36px;
   font-size: 16px;
   font-family: "Helvetica Neue",Arial,sans-serif;
 }
 
-input.button {
+#mc_embed_signup .button {
   height: 36px;
   font-size: 16px;
-  background-color: var(--purple);
+  background-color: var(--lighter-purple);
 
 }
