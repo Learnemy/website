@@ -121,8 +121,4 @@ As inspired by Mike Tyson, everyone has a DevRel plan until the market punches t
 
 ### What are your best practices to scale developer relations programs overseas?
 
-I hope these best practices are helpful! These are the lessons I’ve learned on my DevRel journey and are not an exhaustive list nor a definitive how-to guide. I would also love to hear from your experiences, do share your best practices in the comments section below.
-
-If you’ve found this article useful, subscribe to my newsletter where you will receive monthly emails on my lessons learned as a DevRel professional, building communities, and designing developer relations programs.
-
-#### ✨ Subscribe here: [https://bit.ly/updatesfromsha](https://bit.ly/updatesfromsha "https://bit.ly/updatesfromsha") ✨
+I hope these best practices are helpful! These are the lessons I’ve learned on my DevRel journey and are not an exhaustive list nor a definitive how-to guide. I would also love to hear from your experiences, do tweet at me at [@elishatan](https://twitter.com/elishatan).
