@@ -1060,8 +1060,10 @@ a.btn {
 }
 
 #mc_embed_signup .button {
-  height: 36px; !important
-  font-size: 16px; !important
-  background-color: var(--purple); !important
+  height: 36px !important; 
+  font-size: 16px !important; 
+  background-color: var(--purple) !important; 
 
 }
+
+#mc_embed_signup{background:#fff; clear:left; width:100%;}
