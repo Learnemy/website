@@ -181,8 +181,9 @@ a:active {
 .content {
   height: auto;
   float: right;
-  width: 60%;
+  width: 59%;
   margin-top: 60px;
+  margin-right: 30px;
 }
 
 .page-top {
