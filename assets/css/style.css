@@ -1032,8 +1032,11 @@ a.btn {
   border-top-right-radius:6px;
   box-shadow:rgba(210, 214, 220, 0.5) 0px 2px 15px 0px;
   box-sizing:border-box;
-  color:rgb(34, 34, 34);
   display:block;
+}
+
+html[data-theme='light'] .subscription-box {
+  color:rgb(34, 34, 34);
 }
 
 .subscription-box-content {
