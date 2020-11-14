@@ -1,10 +1,10 @@
 +++
-aliases = ["about", "contact"]
+aliases = ["talk-goodies"]
 author = "Elisha Tan"
 date = ""
 description = "Elisha is a Developer Community Programs Manager at Facebook, the Founder of TechLadies, and the Co-founder of DevRelFolks Asia. She is passionate about bringing people together to solve big problems."
 og_image = "/uploads/nyc-elisha02.jpg"
-title = "About"
+title = "Thanks for listening to my talk!"
 
 +++
 ![Elisha speaking at TechLadies](/uploads/section11.jpg)
