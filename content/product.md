@@ -4,10 +4,21 @@ author = "Elisha Tan"
 date = ""
 description = "Elisha is a Developer Community Programs Manager at Facebook, the Founder of TechLadies, and the Co-founder of DevRelFolks Asia. She is passionate about bringing people together to solve big problems."
 og_image = "/uploads/nyc-elisha02.jpg"
-title = "Thanks for listening to my talk!"
+title = "Hello and welcome!"
 
 +++
-![Elisha speaking at TechLadies](/uploads/section11.jpg)
+Thanks for tuning in for my talk! 
+
+<div class="info">
+        <div class="subscription-box">
+          <div class="subscription-box-content">
+            <img src="/images/avocado_newsletter.png" alt="Avocado Newsletter">
+            <h3>Subscribe to my monthly newsletter.</h3>
+            {{ partial "subscription.html" . }}
+          </div>
+        </div>
+      </div>
+    </div>
 
 I started my career as a fresh grad entrepreneur, wanting to help people make a living with their passion. My startup journey took me through many challenges - from learning how to code when I couldn't find a tech co-founder, testing new ideas to grow the product, to moving to Silicon Valley for mentorship.
 
