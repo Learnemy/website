@@ -68,7 +68,7 @@ I’ve already started the process earlier this June and I’ll share my learnin
 
 This is the part of the post where I ask for help and share a cat photo I found on the internet to help my case.
 
-![](/uploads/best-girl-cat-names-1606245046-1.jpeg)
+![](/uploads/cat.jpeg)
 
 Did it work? 
 
