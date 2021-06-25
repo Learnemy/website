@@ -31,36 +31,36 @@ But alas, I will eat the words I’ve told my mentees. 😅
 
 To be intentional about how I learn PM, I’m adopting the [70/20/10 model](https://en.wikipedia.org/wiki/70/20/10_Model_(Learning_and_Development)) because I learn best when I make things and because that model sounds kinda cool. Applying this model means:
 
-#### _70% of learning happens on the job through doing the work_
+**_70% of learning happens on the job through doing the work_**
 
 * Create >=1 side project demonstrating PM abilities
 
-#### _20% of learning occurs through others from feedback and coaching_
+##### _20% of learning occurs through others from feedback and coaching_
 
 * Speak to 7 product managers across a range of leadership levels and types of PM
 * Build “board” of mentors, >=3 PMs <- these are PMs I can readily reach for questions
 * Sit in 3 PM meetings
 
-#### _10% of learning occurs through formal training_
+##### _10% of learning occurs through formal training_
 
 * Read Cracking the PM Career book <- This is the one book to rule them all
 * Join PM conferences and meetups
 
 I’ve already started the process earlier this June and I’ll share my learnings and updates slowly over the rest of the year. So far I’ve:
 
-#### =1 side project demonstrating PM abilities
+**Create >=1 side project demonstrating PM abilities**
 
 * Shortlisted ideas and gather feedback on how to choose and prioritize these ideas
 
-#### Speak to 7 product managers across a range of leadership levels and types of PM
+##### Speak to 7 product managers across a range of leadership levels and types of PM
 
 * Spoken to 5 PMs and learned that there are different types of PMs (internal, consumer, PMF, growth, specialized, generalists, etc). It was also interesting to learn how people crafted their career paths.
 
-#### Read Cracking the PM Career book
+##### Read Cracking the PM Career book
 
 * On page 92, and attended 2 talks by the author
 
-#### Join PM conferences and meetups
+##### Join PM conferences and meetups
 
 * Attended Women in Product & Product Con
 
