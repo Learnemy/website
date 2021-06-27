@@ -26,7 +26,7 @@ Sharing a retrospection is different from sharing progress. A retrospection prot
 
 But alas, I will eat the words I’ve told my mentees. 😅
 
-## How I learn PM
+## How I'll learn PM
 
 To be intentional about how I learn PM, I’m adopting the [70/20/10 model](https://en.wikipedia.org/wiki/70/20/10_Model_(Learning_and_Development)) because I learn best when I make things and because that model sounds kinda cool. Applying this model means:
 
@@ -73,9 +73,9 @@ Did it work?
 
 I’m looking for more PMs to talk to, esp folks who have made a switch into PM from program management, PMs in their 2/3rd year of experience, and manager of PMs. I don’t know if this is possible, but I’ll also love to be a fly on the wall at meetings too.
 
-Want to help? Hit me up at [elisha.tan@gmail.com](mailto:elisha.tan@gmail.com) or @elishatan on [Instagram](https://www.instagram.com/elishatan/), [Twitter](https://twitter.com/elishatan), [Linkedin](https://www.linkedin.com/in/elishatan/). 
+Want to help? Hit me up at [elisha.tan@gmail.com](mailto:elisha.tan@gmail.com) or @elishatan on [Instagram](https://www.instagram.com/elishatan/), [Twitter](https://twitter.com/elishatan), [Linkedin](https://www.linkedin.com/in/elishatan/).
 
-&nbsp;&nbsp;
+  
 
 _*Side story: My most memorable talk took place at an art gallery in Armadale and among middle-aged people and teenagers, a biker guy in his 30s stood out. He didn’t look like the usual audience profile for a tech event, I spotted him napping at the gallery cafe earlier, so I’ve assumed he’s just there for the AC or food._
 
