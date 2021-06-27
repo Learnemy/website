@@ -75,7 +75,7 @@ I’m looking for more PMs to talk to, esp folks who have made a switch into PM 
 
 Want to help? Hit me up at [elisha.tan@gmail.com](mailto:elisha.tan@gmail.com) or @elishatan on [Instagram](https://www.instagram.com/elishatan/), [Twitter](https://twitter.com/elishatan), [Linkedin](https://www.linkedin.com/in/elishatan/). 
 
-&nbsp;
+&nbsp;&nbsp;
 
 _*Side story: My most memorable talk took place at an art gallery in Armadale and among middle-aged people and teenagers, a biker guy in his 30s stood out. He didn’t look like the usual audience profile for a tech event, I spotted him napping at the gallery cafe earlier, so I’ve assumed he’s just there for the AC or food._
 
