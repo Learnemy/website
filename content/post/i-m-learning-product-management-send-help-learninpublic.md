@@ -75,6 +75,8 @@ I’m looking for more PMs to talk to, esp folks who have made a switch into PM 
 
 Want to help? Hit me up at [elisha.tan@gmail.com](mailto:elisha.tan@gmail.com) or @elishatan on [Instagram](https://www.instagram.com/elishatan/), [Twitter](https://twitter.com/elishatan), [Linkedin](https://www.linkedin.com/in/elishatan/). 
 
+&nbsp;
+
 _*Side story: My most memorable talk took place at an art gallery in Armadale and among middle-aged people and teenagers, a biker guy in his 30s stood out. He didn’t look like the usual audience profile for a tech event, I spotted him napping at the gallery cafe earlier, so I’ve assumed he’s just there for the AC or food._
 
 _But when it was time for Q&A, he was the first to raise his hand and take the mic. He shared how he tried chasing his dream, failed too, and my story of failing and picking myself up comforted him. That inspired him to try again. He looked like he was about to cry, and I quickly mumbled a thanks because I was about to cry too. It’s been 3 years since that talk and I still occasionally think about the Armadale biker guy, I hope he’s well._
