@@ -1,10 +1,10 @@
 +++
-author = ""
+author = "Elisha Tan"
 date = 2021-06-25T21:39:39Z
-description = ""
+description = "So over the next 6 months or so, I will be learning product management - understanding what skills are needed, trying my hands at these skills, and sharing my progress in public."
 draft = true
 image_credits = ""
-og_image = ""
+og_image = "/uploads/blog-og-iages.png"
 tags = []
 title = "I’m learning Product Management, send help! #LearninPublic "
 
@@ -70,8 +70,12 @@ This is the part of the post where I ask for help and share a cat photo I found 
 
 ![](/uploads/cat.jpeg)
 
-Did it work? 
+Did it work?
 
 I’m looking for more PMs to talk to, esp folks who have made a switch into PM from program management, PMs in their 2/3rd year of experience, and manager of PMs. I don’t know if this is possible, but I’ll also love to be a fly on the wall at meetings too.
 
-Hit me up at [elisha.tan@gmail.com](mailto:elisha.tan@gmail.com) or @elishatan on Instagram or Twitter.
+Want to help? Hit me up at [elisha.tan@gmail.com](mailto:elisha.tan@gmail.com) or @elishatan on [Instagram](https://www.instagram.com/elishatan/), [Twitter](https://twitter.com/elishatan), [Linkedin](https://www.linkedin.com/in/elishatan/). 
+
+\*Side story: My most memorable talk took place at an art gallery in Armadale and among middle-aged people and teenagers, a biker guy in his 30s stood out. He didn’t look like the usual audience profile for a tech event, I spotted him napping at the gallery cafe earlier, so I’ve assumed he’s just there for the AC or food.
+
+But when it was time for Q&A, he was the first to raise his hand and take the mic. He shared how he tried chasing his dream, failed too, and my story of failing and picking myself up comforted him. That inspired him to try again. He looked like he was about to cry, and I quickly mumbled a thanks because I was about to cry too. It’s been 3 years since that talk and I still occasionally think about the Armadale biker guy, I hope he’s well.
