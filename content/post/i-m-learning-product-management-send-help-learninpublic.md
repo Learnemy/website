@@ -2,7 +2,6 @@
 author = "Elisha Tan"
 date = 2021-06-25T21:39:39Z
 description = "So over the next 6 months or so, I will be learning product management - understanding what skills are needed, trying my hands at these skills, and sharing my progress in public."
-draft = true
 image_credits = ""
 og_image = "/uploads/blog-og-iages.png"
 tags = []
